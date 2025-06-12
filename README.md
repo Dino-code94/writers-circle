@@ -81,3 +81,19 @@ npm start
 - Responsive design (Bootstrap)
 - Fully separated frontend/backend architecture
 - RESTful API following best practices
+
+# 📈 User Stories
+
+**As a Writer:**  
+- I want to register and log in securely.  
+- I want to create, edit, and delete my articles.  
+- I want to categorize my articles for better visibility.  
+- I want to receive feedback through comments and votes.
+
+**As a Reader:**  
+- I want to browse and search for articles by topic or author.  
+- I want to comment and interact with writers.  
+- I want to vote on articles I enjoy.
+
+**As a Platform Owner:**  
+- I want to maintain the system's stability and data integrity.
