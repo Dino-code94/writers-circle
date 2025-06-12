@@ -108,3 +108,14 @@ npm start
 - ✅ Search filters tested across all combinations
 - ✅ Frontend tested for responsive behavior (desktop, tablet, mobile)
 - ✅ Backend API tested with Postman & automated tests
+
+# 📊 Code Quality
+
+**Frontend:**  
+- ESLint with Airbnb config ensures clean React code.
+
+**Backend:**  
+- PEP8 standards enforced using Flake8.
+
+**Version Control:**  
+- Proper branching strategy & commit messages followed.
