@@ -97,3 +97,14 @@ npm start
 
 **As a Platform Owner:**  
 - I want to maintain the system's stability and data integrity.
+
+# 🧪 Experience Testing
+
+- ✅ User registration tested on multiple devices
+- ✅ JWT authentication fully verified
+- ✅ Post creation, edit, and deletion tested
+- ✅ Commenting system tested with concurrency
+- ✅ Voting system stress-tested for race conditions
+- ✅ Search filters tested across all combinations
+- ✅ Frontend tested for responsive behavior (desktop, tablet, mobile)
+- ✅ Backend API tested with Postman & automated tests
