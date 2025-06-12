@@ -4,7 +4,7 @@
  and journalistic content. Built for writers and readers, the platform provides an interactive, 
  searchable, and categorized environment to create, discover, and engage with written content.
 
-## 🚀 Overview
+# 🚀 Overview
 
 Writer's Circle empowers users to:
 
@@ -14,7 +14,7 @@ Writer's Circle empowers users to:
 - Vote on posts to highlight popular content.
 - Search and filter content by multiple criteria.
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Frontend:**
 
@@ -38,9 +38,9 @@ Writer's Circle empowers users to:
 - PEP8 / Flake8 (Backend code quality)  
 - Git (version control)
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
-### Backend Setup (Django & DRF)
+## Backend Setup (Django & DRF)
 
 ```bash
 git clone https://github.com/your-username/writers-circle.git
@@ -55,7 +55,7 @@ python manage.py migrate
 
 python manage.py runserver
 ```
-### Frontend Setup (React)
+## Frontend Setup (React)
 
 ```bash
 cd ../frontend
@@ -64,3 +64,20 @@ npm install
 
 npm start
 ```
+
+# 🌟 Features
+
+- User registration, login, logout
+- Secure authentication with JWT
+- Post creation, editing, deletion
+- Commenting system
+- Voting system (upvotes/downvotes)
+- Full-text search with filters:
+  - Username
+  - Title & Content Keywords
+  - Category
+  - Date Created
+  - Popularity
+- Responsive design (Bootstrap)
+- Fully separated frontend/backend architecture
+- RESTful API following best practices
