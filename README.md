@@ -13,3 +13,27 @@ Writer's Circle empowers users to:
 - Read and comment on other users' content.
 - Vote on posts to highlight popular content.
 - Search and filter content by multiple criteria.
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+- React.js  
+- Bootstrap.js  
+- Axios  
+- JavaScript  
+- HTML5 & CSS3
+
+**Backend:**
+
+- Django  
+- Django REST Framework (DRF)  
+- Python 3  
+- PostgreSQL (or SQLite for development)
+
+**Deployment & Tools:**
+
+- Gunicorn  
+- ESLint (Frontend code quality)  
+- PEP8 / Flake8 (Backend code quality)  
+- Git (version control)
