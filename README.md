@@ -37,3 +37,30 @@ Writer's Circle empowers users to:
 - ESLint (Frontend code quality)  
 - PEP8 / Flake8 (Backend code quality)  
 - Git (version control)
+
+## ⚙️ Setup Instructions
+
+### Backend Setup (Django & DRF)
+
+```bash
+git clone https://github.com/your-username/writers-circle.git
+cd writers-circle/backend
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python manage.py migrate
+
+python manage.py runserver
+```
+### Frontend Setup (React)
+
+```bash
+cd ../frontend
+
+npm install
+
+npm start
+```
