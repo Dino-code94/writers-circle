@@ -150,3 +150,25 @@ npm start
   - Backend API tested with Postman
 
   - Full functionality verified on multiple browsers
+
+## 📦 Delivery Note
+
+✅ Full frontend and backend code delivered
+
+✅ Backend (Django REST Framework) fully functional
+
+✅ Frontend (React.js) fully implemented
+
+✅ REST API tested and verified
+
+✅ Search & filter functionality implemented and tested
+
+✅ User registration, authentication (JWT), posting, commenting, and voting all fully operational
+
+✅ Code quality validated (PEP8, ESLint, W3C)
+
+✅ Screenshots and testing evidence provided
+
+✅ Project fully prepared for deployment
+
+✅ Deployment-ready structure delivered in one monorepo repository
