@@ -119,3 +119,34 @@ npm start
 
 **Version Control:**  
 - Proper branching strategy & commit messages followed.
+
+# 🔬 Code Validation & Testing Details
+
+- ✅ **Backend Code Validation:**
+
+  ![Backend Flake8](screenshots/backend-flake8-clean.png)
+
+- ✅ **Frontend Code Validation:**
+
+  ![Frontend ESLint](screenshots/frontend-eslint-clean.png)
+
+- ✅ **CSS Validation:**
+
+  ![CSS Validation](screenshots/TheW3C-CSS-Validator.png)
+
+
+✅ Manual Testing (Full Application):
+
+  - User registration & login (JWT authentication)
+
+  - Post creation, editing, and deletion
+
+  - Commenting & voting system
+
+  - Search & filters functionality
+
+  - Responsive design tested on mobile, tablet, and desktop
+
+  - Backend API tested with Postman
+
+  - Full functionality verified on multiple browsers
